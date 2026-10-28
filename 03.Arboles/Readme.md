@@ -7,7 +7,8 @@
 
 ## c) Barrido Post Orden
 
-<img width="65" height="135" alt="Post orden" src="https://github.com/user-attachments/assets/aca0ef30-0bb4-49d3-9a3f-9e1784ca51db" />
+<img width="72" height="160" alt="image" src="https://github.com/user-attachments/assets/20a56a5b-9e8f-4d99-ab83-61f8882385db" />
+
 
 
 # Árboles
