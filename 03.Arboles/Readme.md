@@ -1,3 +1,14 @@
+# Ejercicio 1 - Resultados
+a) 
+
+
+b) Barrido Pre Orden 
+<img width="65" height="135" alt="image" src="https://github.com/user-attachments/assets/61b60c03-c3ef-4900-bc1b-e951a519dc43" />
+
+c) Barrido Post Orden 
+<img width="65" height="135" alt="image" src="https://github.com/user-attachments/assets/aca0ef30-0bb4-49d3-9a3f-9e1784ca51db" />
+
+
 # Árboles
 
 1. Dado un arreglo sobre el que está representado un árbol de grado indicado como dato, dar un algoritmo que:
