@@ -9,6 +9,11 @@
 
 <img width="72" height="160" alt="image" src="https://github.com/user-attachments/assets/20a56a5b-9e8f-4d99-ab83-61f8882385db" />
 
+## e) Barrido Simétrico
+
+<img width="45" height="103" alt="Captura de pantalla 2026-10-28 153743" src="https://github.com/user-attachments/assets/834e51a6-86d9-428d-8c90-5062d2468b6e" />
+
+
 
 
 # Árboles
