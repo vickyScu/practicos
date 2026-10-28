@@ -17,6 +17,9 @@
 
 <img width="45" height="103" alt="Captura de pantalla 2026-10-28 153743" src="https://github.com/user-attachments/assets/834e51a6-86d9-428d-8c90-5062d2468b6e" />
 
+# Ejercicio 2 - Resultado
+<img width="262" height="87" alt="image" src="https://github.com/user-attachments/assets/463c0d7d-0a6c-47e9-8297-048662c51b5d" />
+
 
 
 
